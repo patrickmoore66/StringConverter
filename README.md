@@ -1,2 +1,3 @@
 # StringConverter
-Portfolio Assignment for CS271 - Computer Architecture and Assembly.
+Portfolio Assignment for CS271 - Computer Architecture and Assembly.This program takes 10 signed integers from the user, converts them to a string, stores them in an array, 
+and then converts the integers into a string to display, and finds their sum, and average. Has a mGetString macro to get a string from the user and  mDisplayString todisplay a string. Has a ReadVal procedure that gets user input, converts it to a numerical value, and stores it in memory. Has a WriteVal procedure that takes a numerical value and displays a string. Has a FindSum procedure to find the Sum of user entries, and a FindAvg procedure to find the average of the user entries rounded down. (floor)
